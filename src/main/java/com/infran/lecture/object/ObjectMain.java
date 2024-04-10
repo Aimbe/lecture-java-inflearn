@@ -1,4 +1,4 @@
-package lang.object;
+package com.infran.lecture.object;
 
 public class ObjectMain {
 
