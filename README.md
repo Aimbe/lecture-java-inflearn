@@ -10,3 +10,7 @@ A . 김영한 자바 중급
     3. String Class
       -> 일급 컬렉션 만들기
       -> componenent Scan 
+
+
+    5. ENUM
+      -> NESTED ENUM
