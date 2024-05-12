@@ -14,3 +14,6 @@ A . 김영한 자바 중급
 
     5. ENUM
       -> NESTED ENUM
+
+
+제네릭
