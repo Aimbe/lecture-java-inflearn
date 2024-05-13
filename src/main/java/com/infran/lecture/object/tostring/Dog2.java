@@ -8,7 +8,6 @@ public class Dog2 {
         this.dogName = dogName;
         this.age = age;
     }
-
     @Override
     public String toString() {
         return "dogName = " + dogName + ", age = " + age;
