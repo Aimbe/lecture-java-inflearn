@@ -42,6 +42,7 @@ public class WinnerList {
     if(winnerLists.size() != WINNER_SIZE){
       throw new IllegalArgumentException("당첨자는 6명이여야 합니다.");
     }
+
   }
 
   private void validateDuplicate(List<Long> winnerLists){
