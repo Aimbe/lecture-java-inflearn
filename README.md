@@ -12,6 +12,7 @@ A . 김영한 자바 중급
       -> componenent Scan 
 
 
+    4. jvm heap
     5. ENUM
       -> NESTED ENUM
 
