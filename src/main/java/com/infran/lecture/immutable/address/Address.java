@@ -1,4 +1,4 @@
-package lang.immutable.address;
+package com.infran.lecture.immutable.address;
 
 public class Address {
 
