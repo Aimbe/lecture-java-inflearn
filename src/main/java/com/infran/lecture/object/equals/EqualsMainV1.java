@@ -24,6 +24,7 @@ public class EqualsMainV1 {
     }
 }
 
+
 class BoxV1 {
     private final String value;
 
