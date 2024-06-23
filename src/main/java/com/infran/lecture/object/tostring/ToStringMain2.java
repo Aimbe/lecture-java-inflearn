@@ -14,9 +14,11 @@ public class ToStringMain2 {
         System.out.println("car = " + car);
         System.out.println("buddy = " + buddy);
         System.out.println("carrot = " + carrot);
+
         print(car);
         print(buddy);
         print(carrot);
+
         final String hex = Integer.toHexString(System.identityHashCode(buddy));
         System.out.println("hex = " + hex);
 
