@@ -9,13 +9,10 @@ public class RefMain2 {
         ImmutableAddress b = a;
         System.out.println("a = " + a);
         System.out.println("b = " + b);
-
         System.out.println("===========");
-
         // b.setValue("부산"); -> 컴파일 에러
         System.out.println("a = " + a);
         System.out.println("b = " + b);
-
 
     }
 }
